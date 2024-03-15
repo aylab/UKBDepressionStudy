@@ -1,4 +1,4 @@
-# summer23_aylab
+# UKB Depression Study
 
 This repository contains information about the codebase and how to use it.
 ## Prerequisites
